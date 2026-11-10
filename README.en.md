@@ -70,7 +70,7 @@ Engine code lives in `lib/ziwei/` (entry point: `generateChart()` in `algorithm.
 git clone https://github.com/Renhuai123/ziwei-doushu.git
 cd ziwei-doushu
 npm ci
-npm run dev          # charting demo at http://localhost:3000/chart
+npm run dev          # charting demo at http://localhost:4008/chart
 
 npm run typecheck    # TypeScript check
 npm test             # charting regression tests
